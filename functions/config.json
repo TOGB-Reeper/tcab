@@ -1,0 +1,18 @@
+{
+	"app_name": "tcab",
+	"app_description": "Taxi and Carpooling Services",
+	"app_identifier": "com.tcab.taxi",
+	"ios_app_version": "1.0.0",
+	"android_app_version": "100",
+	"firebaseProjectId": "tcab-2f17d",
+	"googleApiKeys": {
+		"ios": "AIzaSyBLhbEusnV2B0AR_o-Zy3OnCoSSCssGa4Q",
+		"android": "AIzaSyBLhbEusnV2B0AR_o-Zy3OnCoSSCssGa4Q",
+		"web": "AIzaSyBLhbEusnV2B0AR_o-Zy3OnCoSSCssGa4Q",
+		"server": "AIzaSyBLhbEusnV2B0AR_o-Zy3OnCoSSCssGa4Q"
+	},
+	"expo_owner": "XXXXXXXXXXXXXXX",
+	"expo_slug": "XXXXXXXXXXXXXXX",
+	"expo_project_id": "XXXXXXXXXXXXXXX",
+	"admin_email": "XXXXXXXXXXXXXXX"
+}
